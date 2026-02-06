@@ -1,2 +1,2 @@
 # dre.github.io
-funfact about cellphone
+funfacts about cellphone
